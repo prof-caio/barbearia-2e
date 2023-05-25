@@ -28,8 +28,9 @@ b {
     background-color: chocolate;
     width: auto;
     border-radius: 30px;
-    
+    vertical-align: top;
     display: inline-block;
+    margin-right: 100px;
 }
 
 .texto {
